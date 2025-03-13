@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AviraL Sharma</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="800" src="https://t4.ftcdn.net/jpg/06/18/23/37/360_F_618233718_9dWOLIIzf4I9MPTnHkNmj3AuvELum4Cg.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avirals22" alt="avirals22" /></a> </p>
 
 - 🔭 I’m currently working on [Freshtrack](https://github.com/AviraLS22/freshtrack)
