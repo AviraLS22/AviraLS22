@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer with AI expertise, from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avirals22" alt="avirals22" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Cart]( https://github.com/AviraLS22/smartCart_openCV.git)
+- 🔭 I’m currently working on [Smart Cart]( https://github.com/AviraLS22/smartCart_openCV.git) and [wieCode2025](https://github.com/AviraLS22/wieCode2025.git)) 
 
 - 🌱 I’m currently learning **C++**
 
