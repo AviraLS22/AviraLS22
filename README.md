@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [aviralsharma.tech](aviralsharma.tech)
+- 👨‍💻 All of my projects are available at [aviralsharma.me](aviralsharma.me)
 
 - 💬 Ask me about **javascript , typescript , next.js , GenAI**
 
