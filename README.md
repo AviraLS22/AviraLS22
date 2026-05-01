@@ -104,7 +104,7 @@ const aviral = {
 
 ### 🏆 GitHub Trophies
 
-> Showing A & AA rank trophies only
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avirals22&theme=tokyonight&no-frame=true&row=1&margin-w=10&rank=AA,A" width="100%"/>
@@ -133,12 +133,4 @@ const aviral = {
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=avirals22&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
